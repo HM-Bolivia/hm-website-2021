@@ -4,10 +4,11 @@ title = "CFP"
 
 [&#8592;]({{< ref "_index.md" >}})
 
-> El Call For Papers **finaliza el Domingo 18 de Octubre**. No esperes al último momento :)
+> El Call For Papers **finaliza el Domingo 23 de Octubre**. No esperes al último momento :)
 
 #### Quiero presentar una Charla o Actividad
-Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://www.cognitoforms.com/HackmeetingBolivia/callforpapershackmeeting0x7e4).
+
+Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://www.cognitoforms.com/HackmeetingBolivia/callforpapershackmeeting0x7e5).
 
 
 Entre las actividades tenemos: Charlas, Foros, Talleres y Mesas Redondas. Aunque no nos restringimos a ciertos temas, en el pasado se presentaron charlas sobre:

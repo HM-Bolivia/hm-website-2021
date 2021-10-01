@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://hackmeeting.org.bo"
+baseURL = "https://0x7e5.hackmeeting.org.bo/"
 languageCode = "en-US"
 title = "Yacuiba - Hackmeeting"
 theme = "hugo-split-theme"
