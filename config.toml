@@ -1,0 +1,101 @@
+# Site settings
+baseURL = "https://hackmeeting.org.bo"
+languageCode = "en-US"
+title = "Yacuiba - Hackmeeting"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "Yacuiba - Hackmeeting - 2021"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Hackmeeting"
+  description = "La palabra Hackmeeting fue acuñada a finales de los 90, en Italia, para referirse a un espacio donde se reúnen hackers y activistas sociales."
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/hm-2021.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Contenido"
+
+      [[params.links.list1.link]]
+        text = "Info"
+        url = "info.html"
+
+      [[params.links.list1.link]]
+        text = "CFP"
+        url = "cfp.html"
+
+      [[params.links.list1.link]]
+        text = "Charlas"
+        url = "charlas.html"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Amigos"
+
+      [[params.links.list2.link]]
+        text = "La Otra Red"
+        url = "https://laotra.red/"
+
+      [[params.links.list2.link]]
+        text = "Hacklab Bolivia"
+        url = "https://www.hacklab.org.bo/"
+
+      [[params.links.list2.link]]
+        text = "Hackmeeting"
+        url = "https://hackmeeting.org/"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Redes Sociales"
+
+      [[params.links.list3.link]]
+        text = "Email"
+        url = "mailto:contacto@hackmeeting.org.bo"
+
+      [[params.links.list3.link]]
+        text = "Twitter"
+        url = "https://twitter.com/HackmeetingB0/"
+
+      [[params.links.list3.link]]
+        text = "Facebook"
+        url = "https://www.facebook.com/hackmeetingbolivia/"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
