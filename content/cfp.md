@@ -8,7 +8,7 @@ title = "CFP"
 
 #### Quiero presentar una Charla o Actividad
 
-Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://www.cognitoforms.com/HackmeetingBolivia/callforpapershackmeeting0x7e5).
+Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://www.cognitoforms.com/HackmeetingBolivia/CallForPapersHackmeeting0x7e5).
 
 
 Entre las actividades tenemos: Charlas, Foros, Talleres y Mesas Redondas. Aunque no nos restringimos a ciertos temas, en el pasado se presentaron charlas sobre:
