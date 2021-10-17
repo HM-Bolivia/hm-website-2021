@@ -3,9 +3,12 @@ title = "Bolivia 2021"
 tagline = "HM 0x7E5 YACUIBA"
 +++
 
-Te invitamos a participar de la **XII** versión del **Hackmeeting Boliviano** que se llevará los días **19, 20 y 21 de noviembre del 2021**, nuestro **Hackmeeting** es un evento que reune a destacados profesionales de la tecnología informática, sistemas, redes, seguridad informática y otras especialidades, este evento esta abierto para todo público, este año en versión presencial y virtual abierto para el mundo entero.
+El **Hackmeeting** es un evento anual que reúne a comunidades y destacados profesionales de la tecnología, sistemas, redes, seguridad informática y otras especialidades. Nos caracterizamos por ser un evento autogestionado, y por estar abierto a todo público de forma libre y gratuita.
 
-Recuerda que estamos en esperando tu charla, registra tu charla en este enlace [**CFP**]({{< ref "cfp.md" >}}).
+La **XII** versión del evento, el **Hackmeeting 0x7e5**, se llevará a cabo los días **19, 20 y 21 de noviembre del 2021** en las cálidas tierras de la ciudad de Yacuiba. Y naturalmente, ¡estás cordialmente invitad@!
+
+
+¿Te interesa dar una charla? Nuestro [**Call For Papers**]({{< ref "cfp.md" >}}) está esperando :)
 
 <!-- | [Info]({{< ref "info.md" >}}) | [CFP]({{< ref "cfp.md" >}}) | [Charlas]({{< ref "charlas.md" >}}) | -->
 

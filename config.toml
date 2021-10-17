@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://0x7e5.hackmeeting.org.bo/"
 languageCode = "en-US"
-title = "Yacuiba - Hackmeeting"
+title = "Hackmeeting 2021 - Yacuiba"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -13,14 +13,15 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "Yacuiba - Hackmeeting - 2021"
+copyright = "Hackmeeting 2021 Yacuiba"
 
 [params]
 
   # Metadata for search engines and social sharing
   author = "Hackmeeting"
-  description = "La palabra Hackmeeting fue acuñada a finales de los 90, en Italia, para referirse a un espacio donde se reúnen hackers y activistas sociales."
-  shareImage = "images/social.jpg"
+  description = "Hackmeeting 0x7e5 Bolivia: donde los hackers se reúnen para aprender y enseñar. ¡Este noviembre en Yacuiba!"
+  # esta imagen creo se quedó cacheada, usar el truco de cambio de nombre
+  shareImage = "images/hm-2021.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
@@ -50,7 +51,7 @@ copyright = "Yacuiba - Hackmeeting - 2021"
       heading = "Contenido"
 
       [[params.links.list1.link]]
-        text = "Info"
+        text = "Más info"
         url = "info.html"
 
       [[params.links.list1.link]]
@@ -60,6 +61,10 @@ copyright = "Yacuiba - Hackmeeting - 2021"
       [[params.links.list1.link]]
         text = "Charlas"
         url = "charlas.html"
+
+      [[params.links.list1.link]]
+        text = "Memorias Pasadas"
+        url = "https://memorias.hackmeeting.org.bo/"
 
   # Links List #2
   [[params.links]]
