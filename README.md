@@ -43,7 +43,7 @@ Luego de editar el contenido podemos subir los datos al reposiorio.
     # Para la rama master con Hugo
     $ git add .
     $ git commit -m 'New post'
-    $ git push origin master
+    $ git push origin main
 
     # Para la rama deploy, sitio estático
     $ cd public

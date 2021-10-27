@@ -4,7 +4,7 @@ title = "CFP"
 
 [&#8592;]({{< ref "_index.md" >}})
 
-> El Call For Papers **finaliza el Domingo 23 de Octubre**. No esperes al último momento :)
+> El Call For Papers **finaliza el día viernes 29 de Octubre, a las 23:59** GMT -4. No esperes al último momento :)
 
 #### Quiero presentar una Charla o Actividad
 
